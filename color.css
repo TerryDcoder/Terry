@@ -1,0 +1,31 @@
+body{
+    background-image: url(haker.jpg);
+    background-repeat: none;
+    background-position: center;
+    text-decoration-color: black;
+    margin: 50PX;
+    font-size: large;
+    justify-content: center;
+
+}
+header{
+    background-color: yellow;
+    text-align: center;
+    transition-delay: 5s;
+    text-transform: unset;
+    padding: 15px;
+    font-weight: bolder;
+}
+p{
+    color: black;
+}
+#main-footer{
+    font-size: 22px;
+    color: rgb(46, 27, 27);
+    text-align: center;
+    padding: 25px
+}
+#bar{
+    color: bisque;
+    font-size: 25px;
+}

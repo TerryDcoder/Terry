@@ -1,0 +1,25 @@
+header{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 45px;
+    color: aliceblue;
+    transition-delay: 2s;
+    
+}
+
+#main-footer{
+    font-size: 22px;
+    color: rgb(46, 27, 27);
+    text-align: center;
+    padding: 25px
+}
+
+body{ background-color: aquamarine;
+}
+   
+    span{
+        color:rgb(239, 17, 54);
+        text-shadow: 50px;
+    }
+    
